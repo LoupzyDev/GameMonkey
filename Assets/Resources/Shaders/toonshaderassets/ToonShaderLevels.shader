@@ -1,4 +1,4 @@
-Shader "CookbookShaders/Chapter 05/ToonShaderLevels" {
+ Shader "CookbookShaders/Chapter 05/ToonShaderLevels" {
     Properties
     {
         _MainTex("Texture", 2D) = "white" {}
